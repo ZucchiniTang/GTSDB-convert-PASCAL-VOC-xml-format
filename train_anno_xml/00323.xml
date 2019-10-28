@@ -1,0 +1,27 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00323.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>no overtaking (trucks)</name>
+    <bndbox>
+      <xmin>398</xmin>
+      <ymin>437</ymin>
+      <xmax>425</xmax>
+      <ymax>464</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>no overtaking (trucks)</name>
+    <bndbox>
+      <xmin>854</xmin>
+      <ymin>438</ymin>
+      <xmax>881</xmax>
+      <ymax>466</ymax>
+    </bndbox>
+  </object>
+</annotation>

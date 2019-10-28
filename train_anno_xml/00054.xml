@@ -1,0 +1,45 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00054.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>traffic signal</name>
+    <bndbox>
+      <xmin>1113</xmin>
+      <ymin>436</ymin>
+      <xmax>1152</xmax>
+      <ymax>473</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 20</name>
+    <bndbox>
+      <xmin>1117</xmin>
+      <ymin>473</ymin>
+      <xmax>1146</xmax>
+      <ymax>502</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>priority road</name>
+    <bndbox>
+      <xmin>974</xmin>
+      <ymin>442</ymin>
+      <xmax>999</xmax>
+      <ymax>467</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keep right</name>
+    <bndbox>
+      <xmin>456</xmin>
+      <ymin>520</ymin>
+      <xmax>476</xmax>
+      <ymax>540</ymax>
+    </bndbox>
+  </object>
+</annotation>

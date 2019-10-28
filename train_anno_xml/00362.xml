@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00362.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cycles crossing</name>
+    <bndbox>
+      <xmin>252</xmin>
+      <ymin>470</ymin>
+      <xmax>370</xmax>
+      <ymax>574</ymax>
+    </bndbox>
+  </object>
+</annotation>

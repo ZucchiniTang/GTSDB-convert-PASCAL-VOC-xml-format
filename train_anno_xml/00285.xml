@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00285.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>stop</name>
+    <bndbox>
+      <xmin>1091</xmin>
+      <ymin>304</ymin>
+      <xmax>1146</xmax>
+      <ymax>359</ymax>
+    </bndbox>
+  </object>
+</annotation>

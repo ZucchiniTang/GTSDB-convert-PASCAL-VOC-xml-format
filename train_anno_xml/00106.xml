@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00106.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>road narrows</name>
+    <bndbox>
+      <xmin>902</xmin>
+      <ymin>369</ymin>
+      <xmax>985</xmax>
+      <ymax>443</ymax>
+    </bndbox>
+  </object>
+</annotation>

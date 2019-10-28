@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00400.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>construction</name>
+    <bndbox>
+      <xmin>1236</xmin>
+      <ymin>480</ymin>
+      <xmax>1290</xmax>
+      <ymax>528</ymax>
+    </bndbox>
+  </object>
+</annotation>

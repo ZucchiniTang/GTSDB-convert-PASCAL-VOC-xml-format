@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00896.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>no traffic both ways</name>
+    <bndbox>
+      <xmin>808</xmin>
+      <ymin>412</ymin>
+      <xmax>846</xmax>
+      <ymax>450</ymax>
+    </bndbox>
+  </object>
+</annotation>

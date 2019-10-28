@@ -1,0 +1,27 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00459.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>road narrows</name>
+    <bndbox>
+      <xmin>877</xmin>
+      <ymin>515</ymin>
+      <xmax>912</xmax>
+      <ymax>548</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 30</name>
+    <bndbox>
+      <xmin>884</xmin>
+      <ymin>548</ymin>
+      <xmax>909</xmax>
+      <ymax>573</ymax>
+    </bndbox>
+  </object>
+</annotation>

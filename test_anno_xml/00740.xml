@@ -1,0 +1,36 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00740.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>speed limit 80</name>
+    <bndbox>
+      <xmin>1163</xmin>
+      <ymin>510</ymin>
+      <xmax>1213</xmax>
+      <ymax>560</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 80</name>
+    <bndbox>
+      <xmin>489</xmin>
+      <ymin>513</ymin>
+      <xmax>534</xmax>
+      <ymax>558</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>give way</name>
+    <bndbox>
+      <xmin>1071</xmin>
+      <ymin>554</ymin>
+      <xmax>1094</xmax>
+      <ymax>577</ymax>
+    </bndbox>
+  </object>
+</annotation>

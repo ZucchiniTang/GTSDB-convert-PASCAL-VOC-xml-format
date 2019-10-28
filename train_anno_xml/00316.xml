@@ -1,0 +1,45 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00316.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bend right</name>
+    <bndbox>
+      <xmin>693</xmin>
+      <ymin>413</ymin>
+      <xmax>719</xmax>
+      <ymax>437</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 60</name>
+    <bndbox>
+      <xmin>696</xmin>
+      <ymin>436</ymin>
+      <xmax>719</xmax>
+      <ymax>458</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bend right</name>
+    <bndbox>
+      <xmin>994</xmin>
+      <ymin>395</ymin>
+      <xmax>1022</xmax>
+      <ymax>420</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 60</name>
+    <bndbox>
+      <xmin>995</xmin>
+      <ymin>421</ymin>
+      <xmax>1020</xmax>
+      <ymax>445</ymax>
+    </bndbox>
+  </object>
+</annotation>

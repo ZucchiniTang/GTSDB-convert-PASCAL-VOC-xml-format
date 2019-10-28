@@ -1,0 +1,36 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00544.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>priority at next intersection</name>
+    <bndbox>
+      <xmin>1054</xmin>
+      <ymin>297</ymin>
+      <xmax>1122</xmax>
+      <ymax>358</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>road narrows</name>
+    <bndbox>
+      <xmin>990</xmin>
+      <ymin>425</ymin>
+      <xmax>1028</xmax>
+      <ymax>459</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 30</name>
+    <bndbox>
+      <xmin>744</xmin>
+      <ymin>438</ymin>
+      <xmax>762</xmax>
+      <ymax>458</ymax>
+    </bndbox>
+  </object>
+</annotation>

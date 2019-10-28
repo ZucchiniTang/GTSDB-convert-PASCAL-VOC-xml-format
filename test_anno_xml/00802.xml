@@ -1,0 +1,27 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00802.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pedestrian crossing</name>
+    <bndbox>
+      <xmin>596</xmin>
+      <ymin>181</ymin>
+      <xmax>698</xmax>
+      <ymax>269</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 30</name>
+    <bndbox>
+      <xmin>610</xmin>
+      <ymin>267</ymin>
+      <xmax>683</xmax>
+      <ymax>336</ymax>
+    </bndbox>
+  </object>
+</annotation>

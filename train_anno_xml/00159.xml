@@ -1,0 +1,45 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00159.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>keep left </name>
+    <bndbox>
+      <xmin>974</xmin>
+      <ymin>443</ymin>
+      <xmax>1031</xmax>
+      <ymax>506</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keep left </name>
+    <bndbox>
+      <xmin>713</xmin>
+      <ymin>476</ymin>
+      <xmax>740</xmax>
+      <ymax>503</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keep right</name>
+    <bndbox>
+      <xmin>86</xmin>
+      <ymin>473</ymin>
+      <xmax>117</xmax>
+      <ymax>504</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keep right</name>
+    <bndbox>
+      <xmin>890</xmin>
+      <ymin>466</ymin>
+      <xmax>917</xmax>
+      <ymax>505</ymax>
+    </bndbox>
+  </object>
+</annotation>

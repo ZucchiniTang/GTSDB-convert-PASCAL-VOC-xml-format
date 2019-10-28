@@ -1,0 +1,27 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00749.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>speed limit 80</name>
+    <bndbox>
+      <xmin>301</xmin>
+      <ymin>551</ymin>
+      <xmax>346</xmax>
+      <ymax>596</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 80</name>
+    <bndbox>
+      <xmin>1153</xmin>
+      <ymin>546</ymin>
+      <xmax>1200</xmax>
+      <ymax>593</ymax>
+    </bndbox>
+  </object>
+</annotation>

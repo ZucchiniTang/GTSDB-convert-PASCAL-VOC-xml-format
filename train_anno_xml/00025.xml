@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00025.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>roundabout</name>
+    <bndbox>
+      <xmin>734</xmin>
+      <ymin>463</ymin>
+      <xmax>767</xmax>
+      <ymax>497</ymax>
+    </bndbox>
+  </object>
+</annotation>

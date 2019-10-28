@@ -1,0 +1,36 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00270.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>restriction ends</name>
+    <bndbox>
+      <xmin>1238</xmin>
+      <ymin>331</ymin>
+      <xmax>1291</xmax>
+      <ymax>385</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 50</name>
+    <bndbox>
+      <xmin>243</xmin>
+      <ymin>335</ymin>
+      <xmax>293</xmax>
+      <ymax>386</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 50</name>
+    <bndbox>
+      <xmin>1237</xmin>
+      <ymin>279</ymin>
+      <xmax>1291</xmax>
+      <ymax>332</ymax>
+    </bndbox>
+  </object>
+</annotation>

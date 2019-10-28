@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00447.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>give way</name>
+    <bndbox>
+      <xmin>1182</xmin>
+      <ymin>418</ymin>
+      <xmax>1268</xmax>
+      <ymax>495</ymax>
+    </bndbox>
+  </object>
+</annotation>

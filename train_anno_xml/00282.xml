@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00282.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>school crossing</name>
+    <bndbox>
+      <xmin>869</xmin>
+      <ymin>414</ymin>
+      <xmax>901</xmax>
+      <ymax>444</ymax>
+    </bndbox>
+  </object>
+</annotation>

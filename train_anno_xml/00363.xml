@@ -1,0 +1,27 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00363.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>speed limit 120</name>
+    <bndbox>
+      <xmin>407</xmin>
+      <ymin>483</ymin>
+      <xmax>450</xmax>
+      <ymax>526</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>no overtaking (trucks)</name>
+    <bndbox>
+      <xmin>409</xmin>
+      <ymin>525</ymin>
+      <xmax>453</xmax>
+      <ymax>568</ymax>
+    </bndbox>
+  </object>
+</annotation>

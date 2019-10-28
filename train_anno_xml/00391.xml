@@ -1,0 +1,27 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00391.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>restriction ends 80</name>
+    <bndbox>
+      <xmin>1260</xmin>
+      <ymin>502</ymin>
+      <xmax>1304</xmax>
+      <ymax>551</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>restriction ends 80</name>
+    <bndbox>
+      <xmin>198</xmin>
+      <ymin>508</ymin>
+      <xmax>247</xmax>
+      <ymax>558</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00042.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>danger</name>
+    <bndbox>
+      <xmin>916</xmin>
+      <ymin>300</ymin>
+      <xmax>995</xmax>
+      <ymax>374</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00191.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>priority at next intersection</name>
+    <bndbox>
+      <xmin>693</xmin>
+      <ymin>406</ymin>
+      <xmax>728</xmax>
+      <ymax>439</ymax>
+    </bndbox>
+  </object>
+</annotation>

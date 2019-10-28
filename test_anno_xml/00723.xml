@@ -1,0 +1,36 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00723.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>slippery road </name>
+    <bndbox>
+      <xmin>746</xmin>
+      <ymin>360</ymin>
+      <xmax>800</xmax>
+      <ymax>408</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>slippery road </name>
+    <bndbox>
+      <xmin>180</xmin>
+      <ymin>366</ymin>
+      <xmax>236</xmax>
+      <ymax>414</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed limit 70</name>
+    <bndbox>
+      <xmin>696</xmin>
+      <ymin>424</ymin>
+      <xmax>717</xmax>
+      <ymax>446</ymax>
+    </bndbox>
+  </object>
+</annotation>

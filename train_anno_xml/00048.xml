@@ -1,0 +1,36 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00048.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>roundabout</name>
+    <bndbox>
+      <xmin>780</xmin>
+      <ymin>443</ymin>
+      <xmax>811</xmax>
+      <ymax>474</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>give way</name>
+    <bndbox>
+      <xmin>771</xmin>
+      <ymin>405</ymin>
+      <xmax>815</xmax>
+      <ymax>443</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keep right</name>
+    <bndbox>
+      <xmin>341</xmin>
+      <ymin>523</ymin>
+      <xmax>380</xmax>
+      <ymax>562</ymax>
+    </bndbox>
+  </object>
+</annotation>

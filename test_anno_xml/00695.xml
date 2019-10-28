@@ -1,0 +1,18 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00695.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>priority road</name>
+    <bndbox>
+      <xmin>793</xmin>
+      <ymin>386</ymin>
+      <xmax>824</xmax>
+      <ymax>417</ymax>
+    </bndbox>
+  </object>
+</annotation>

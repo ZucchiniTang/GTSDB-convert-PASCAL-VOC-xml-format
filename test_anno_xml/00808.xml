@@ -1,0 +1,27 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00808.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>keep right</name>
+    <bndbox>
+      <xmin>272</xmin>
+      <ymin>463</ymin>
+      <xmax>315</xmax>
+      <ymax>507</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pedestrian crossing</name>
+    <bndbox>
+      <xmin>795</xmin>
+      <ymin>264</ymin>
+      <xmax>866</xmax>
+      <ymax>326</ymax>
+    </bndbox>
+  </object>
+</annotation>

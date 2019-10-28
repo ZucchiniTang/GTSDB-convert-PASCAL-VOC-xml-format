@@ -1,0 +1,36 @@
+<annotation>
+  <folder>TrainIJCNN2013</folder>
+  <filename>00795.ppm</filename>
+  <size>
+    <width>1360</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>keep right</name>
+    <bndbox>
+      <xmin>168</xmin>
+      <ymin>612</ymin>
+      <xmax>216</xmax>
+      <ymax>663</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>go right or straight</name>
+    <bndbox>
+      <xmin>832</xmin>
+      <ymin>456</ymin>
+      <xmax>866</xmax>
+      <ymax>489</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>go right</name>
+    <bndbox>
+      <xmin>396</xmin>
+      <ymin>494</ymin>
+      <xmax>423</xmax>
+      <ymax>522</ymax>
+    </bndbox>
+  </object>
+</annotation>
